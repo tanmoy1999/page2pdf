@@ -1,4 +1,4 @@
-# page2pdf [UNDER DEVELOPMENT]
+# Page2Pdf
 
 # Introduction
 
