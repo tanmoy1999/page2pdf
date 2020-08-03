@@ -2,7 +2,7 @@
 
 # Page2Pdf
 
-Convert your documents to PDF using Webcam
+Convert your Documents to PDF using Webcam
 
 # Introduction
 
