@@ -1,7 +1,6 @@
 <img src="https://img.shields.io/github/last-commit/tanmoy1999/page2pdf" alt="Hits"> <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ftanmoy1999%2Fpage2pdf%2F" alt="Hits">
 
 # Page2Pdf
-
 Convert your Documents to PDF using Webcam
 
 # Introduction
